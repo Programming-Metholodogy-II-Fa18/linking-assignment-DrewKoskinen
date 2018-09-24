@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/drewk/CLionProjects/PM2ASSIGMENT1ADK98/header.h
+crtdbg.h
+-
+string
+-
+iostream
+-
+
+C:/Users/drewk/CLionProjects/PM2ASSIGMENT1ADK98/main.cpp
+iostream
+-
+header.h
+C:/Users/drewk/CLionProjects/PM2ASSIGMENT1ADK98/header.h
+
