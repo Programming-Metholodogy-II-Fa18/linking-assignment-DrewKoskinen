@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/drewk/CLionProjects/PM2ASSIGNMENT1(#4)ADK98/Problem4functions.h
+bits/stdc++.h
+-
+
+C:/Users/drewk/CLionProjects/PM2ASSIGNMENT1(#4)ADK98/main.cpp
+Problem4functions.h
+C:/Users/drewk/CLionProjects/PM2ASSIGNMENT1(#4)ADK98/Problem4functions.h
+
